@@ -1,2 +1,2 @@
-# zadanie14_8
-https://teyreach.github.io/zadanie14_8/
+# Project-Gif-Search-ReactJS
+https://teyreach.github.io/Project-Gif-Search-ReactJS/
